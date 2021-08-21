@@ -1,5 +1,5 @@
 ### CSV Challenge
-This is a simple challenge made for begginer programers that consist on small operations around a csv file. The file called ![candidates.csv](candidates.csv) have some simple information about people who
+This is a simple challenge made for begginer programers that consist on small operations around a csv file. The file called [candidates.csv](candidates.csv) have some simple information about people who
 are candidates of a job selection, like: **name**, **department**, **age**, **state**.
 
 ### Requirements
